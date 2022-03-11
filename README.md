@@ -22,6 +22,11 @@ This is for the IEEE Backend task.
 name:course_name
 description: course_description
 couresImg: course_Image
+contant: course_contant
+perquisites: course_perquisites
+instructor: cousre_instructor
+courseLength: course_length
+fees: course_fees
 }
 ```
 ### 4. Permissions 
