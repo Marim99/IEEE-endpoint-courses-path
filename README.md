@@ -21,14 +21,14 @@ This is for the IEEE Backend task.
 ### 3. Body 
 ```
 {
-name: string
-description: string
-couresImg: string
-contant: string
-perquisites: string
-instructor: string
-courseLength: number
-fees: number
+name: string,
+description: string,
+couresImg: string,
+contant: string,
+perquisites: string,
+instructor: string,
+courseLength: number,
+fees: number,
 }
 ```
 ### 4. Permissions 
