@@ -11,6 +11,8 @@ This is for the IEEE Backend task.
 
 ```"/api/courses/courseId"```
 
+```"/api/courses/:courseId"```
+
 ### 2. Method 
 
 * GET 
@@ -19,14 +21,14 @@ This is for the IEEE Backend task.
 ### 3. Body 
 ```
 {
-name:course_name
-description: course_description
-couresImg: course_Image
-contant: course_contant
-perquisites: course_perquisites
-instructor: cousre_instructor
-courseLength: course_length
-fees: course_fees
+name: string
+description: string
+couresImg: string
+contant: string
+perquisites: string
+instructor: string
+courseLength: number
+fees: number
 }
 ```
 ### 4. Permissions 
